@@ -7,3 +7,5 @@
 - 📫 How to reach me: researcher2312@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have invented a new recipe for vegan cheese
+
+![CodeWars](https://www.codewars.com/users/researcher2312/badges/small)
