@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on lunar lander game in SDL2
-- 🌱 I’m currently learning RTOS
+- 🔭 I’m currently working on new LightDM login greeter
+- 🌱 I’m currently learning QT
 - 👯 I’m looking to collaborate on DIY game consoles
 - 🤔 I’m looking for help with game architecture
 - 💬 Ask me about space exploration
